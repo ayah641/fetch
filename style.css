@@ -1,0 +1,75 @@
+#getPosts {
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  padding: 15px;
+  background-color: #d8e46e;
+  border: #d8e46e;
+  border-radius: 10px;
+}
+#getUsers {
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  padding: 15px;
+  background-color: #e770ac;
+  border: #e770ac;
+  border-radius: 10px;
+}
+#getText {
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  padding: 15px;
+  background-color: #1f53e2;
+  border: #1f53e2;
+  border-radius: 10px;
+}
+
+#getText:hover {
+  background-color: #a89e9e;
+}
+
+#getUsers:hover {
+  background-color: #a89e9e;
+}
+
+#getPosts:hover {
+  background-color: #a89e9e;
+}
+
+.input {
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  padding: 15px;
+  border-radius: 20px;
+  border-color: cadetblue;
+  border-width: 3px;
+  margin-top: 15px;
+}
+.input:hover {
+  border-color: #8f6dce;
+}
+
+.textarea {
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  padding: 15px;
+  border-radius: 20px;
+  border-color: cadetblue;
+  border-width: 3px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.textarea:hover {
+  border-color: #8f6dce;
+}
+.submit {
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  padding: 15px;
+  background-color: #cfc3c3;
+  border: #cfc3c3;
+  border-radius: 10px;
+}
+
+.submit:hover {
+  background-color: #635f5f;
+}
